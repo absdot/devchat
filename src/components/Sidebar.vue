@@ -4,7 +4,6 @@
     <div class="position-sticky top-0">
       <div class="text-center pt-5">
         <div class="d-table position-relative mx-auto mt-2 mt-lg-4 pt-5 mb-3">
-          <!-- src="/assets/images/avatar/18.jpg" -->
           <img
             :src="authUser.photoURL"
             class="d-block rounded-circle"
