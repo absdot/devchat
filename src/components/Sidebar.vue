@@ -45,13 +45,13 @@
             <i class="bx bx-chat fs-xl opacity-60 me-2"></i>
             Messages
           </router-link>
-          <router-link
+          <!-- <router-link
             :to="{ name: 'rooms' }"
             class="list-group-item list-group-item-action d-flex align-items-center"
           >
             <i class="bx bx-collection fs-xl opacity-60 me-2"></i>
             Rooms
-          </router-link>
+          </router-link> -->
           <router-link
             :to="{ name: 'profile' }"
             class="list-group-item list-group-item-action d-flex align-items-center"
