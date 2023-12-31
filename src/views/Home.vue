@@ -15,7 +15,7 @@
           <h1 class="display-3 pb-2 pb-sm-3 text-white">
             <!-- Connect easily with<br />friends and team -->
             <!-- Easily communicate with friends and the team -->
-            I love to chat in a secure circle.
+            Connect easily with friends and team.
           </h1>
           <p
             class="fs-lg d-md-none d-xl-block pb-2 pb-md-0 mb-4 mb-md-5 fw-bold-"
